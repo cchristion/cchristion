@@ -15,6 +15,4 @@ I'm passionate about helping organizations protect their assets and drive busine
 I'm excited to connect with other developers, discuss project ideas, and collaborate on new ventures.
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cchristion&theme=github_dark&show_icons=true)
-
 Thank you for visiting my profile!
