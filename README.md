@@ -10,7 +10,7 @@ I'm passionate about helping organizations protect their assets and drive busine
 **Feel free to reach out to me through**
 * <img height="14" width="14" src="https://cdn.simpleicons.org/github/white" />  [github.com/cchristion](https://github.com/cchristion)
 * <img height="14" width="14" src="https://cdn.simpleicons.org/linkedin" /> [linkedin.com/in/cchristion](https://www.linkedin.com/in/cchristion)
-* <img height="14" width="14" src="https://cdn.simpleicons.org/maildotru" /> [cchristion+chjg8c37@skiff.com](mailto:cchristion+chjg8c37@skiff.com)
+* <img height="14" width="14" src="https://cdn.simpleicons.org/maildotru" /> [cchristion+chjg8c37@proton.me](mailto:cchristion+chjg8c37@proton.me)
 
 I'm excited to connect with other developers, discuss project ideas, and collaborate on new ventures.
 <hr>
