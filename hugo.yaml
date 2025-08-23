@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://cchristion.netlify.app"
 languageCode: en-us
 title: "Christion's Website"
 theme: ["PaperMod"]
