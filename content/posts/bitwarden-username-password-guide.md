@@ -10,11 +10,12 @@ Creating secure and memorable usernames and passwords is easy with Bitwarden’s
 
 1. Go to [Bitwarden Username Generator](https://bitwarden.com/username-generator/#username-generator).
 2. Set options:
-
+   
+   * Number of Words: 1 or 2
    * Capitalize: ✔️
    * Include number: ✔️
    * Word separator: Blank or `-`
-3. Click **Generate** and pick your username.
+4. Click **Generate** and pick your username.
 
 ### Password (Passphrase)
 
@@ -22,7 +23,7 @@ Creating secure and memorable usernames and passwords is easy with Bitwarden’s
 2. Set options:
 
    * Type: Passphrase
-   * Number of Words: 6
+   * Number of Words: 3
    * Capitalize: ✔️
    * Include number: ✔️
    * Word separator: Blank or `-`
