@@ -20,9 +20,9 @@ You can force your phone to stay on 5G using a hidden Android settings screen â€
 3. Scroll to **Set Preferred Network Type**.
 4. Choose `NR only` to stay on 5G.
 
-## Optional App
+## Shoutout
 
-If you prefer a UI-based method, try **[11 Cell Network Changer](https://codeberg.org/Tre_brock/11-Cell-Network-Changer)**. It simplifies access to the same hidden settings.
+Shoutout to the **[11 Cell Network Changer](https://codeberg.org/Tre_brock/11-Cell-Network-Changer)** app for helping me discover this solution. If you prefer a UI-based method, this app makes accessing those hidden settings so much easier.
 
 ---
 
