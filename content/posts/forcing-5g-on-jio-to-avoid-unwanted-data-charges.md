@@ -18,7 +18,7 @@ You can force your phone to stay on 5G using a hidden Android settings screen â€
 1. Open your dialer and enter: `*#*#4636#*#*`
 2. Select **Phone Information**.
 3. Scroll to **Set Preferred Network Type**.
-4. Choose `NR only` or `NR/LTE` to stay on 5G.
+4. Choose `NR only` to stay on 5G.
 
 ## Optional App
 
