@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="1100" height="680">
+  <defs>
+    <marker id="arrow-up" viewBox="0 0 10 10" refX="5" refY="2" markerWidth="7" markerHeight="7" orient="0">
+      <path d="M 1 9 L 5 1 L 9 9" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </marker>
+    <marker id="arrow-down" viewBox="0 0 10 10" refX="5" refY="8" markerWidth="7" markerHeight="7" orient="0">
+      <path d="M 1 1 L 5 9 L 9 1" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    </marker>
+  </defs>
+
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #000000; text-anchor: middle; }
+    .title { font-size: 24px; font-weight: 700; letter-spacing: 0.5px; }
+    .tier-hdr { font-size: 15px; font-weight: 700; }
+    .sub-hdr { font-size: 13.5px; font-weight: 700; }
+    .body-txt { font-size: 13px; font-weight: 400; }
+    .side-txt { font-size: 13.5px; font-weight: 600; letter-spacing: 0.5px; }
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 1.75; }
+    .divider { stroke: #000000; stroke-width: 1.5; }
+    .connector { stroke: #000000; stroke-width: 1.75; fill: none; }
+  </style>
+
+  
+  <rect width="1100" height="680" fill="#ffffff" />
+
+  
+  <text x="550" y="45" class="title">HIGH-VALUE LIFE DOMAINS: DEPENDENCY STACK</text>
+
+  
+  <line x1="95" y1="651" x2="95" y2="77" class="connector" marker-end="url(#arrow-up)" />
+  <text x="48" y="363" class="side-txt" transform="rotate(-90 48 363)">DEPENDENCY FLOW</text>
+  <text x="72" y="363" class="side-txt" transform="rotate(-90 72 363)">UPWARD CAPACITY</text>
+
+  
+  <line x1="1005" y1="75" x2="1005" y2="649" class="connector" marker-end="url(#arrow-down)" />
+  <text x="1032" y="363" class="side-txt" transform="rotate(-90 1032 363)">CASCADE OF FAILURE / BOTTLENECK EFFECT</text>
+
+  
+  <rect x="140" y="75" width="820" height="105" class="box" />
+  <text x="550" y="103" class="tier-hdr">TIER 4: INBOUND MAGNETISM</text>
+  <text x="550" y="126" class="sub-hdr">4A: REPUTATION &amp; POSITIONING</text>
+  <text x="550" y="150" class="body-txt">(Proof of work, narrow category ownership, high integrity)</text>
+
+  
+  <line x1="550" y1="212" x2="550" y2="183" class="connector" marker-end="url(#arrow-up)" />
+
+  
+  <rect x="140" y="212" width="820" height="125" class="box" />
+  <text x="550" y="238" class="tier-hdr">TIER 3: SCALE &amp; LEVERAGE</text>
+  <line x1="550" y1="250" x2="550" y2="325" class="divider" />
+  <text x="345" y="266" class="sub-hdr">3A: WEALTH &amp; CAPITAL ALLOCATION</text>
+  <text x="345" y="289" class="body-txt">(High-margin cash flow, equity,</text>
+  <text x="345" y="309" class="body-txt">asymmetric bets, risk mitigation)</text>
+  <text x="755" y="266" class="sub-hdr">3B: NETWORK &amp; RELATIONSHIPS</text>
+  <text x="755" y="289" class="body-txt">(High-trust inner circle, strategic</text>
+  <text x="755" y="309" class="body-txt">alliances, boundary enforcement)</text>
+
+  
+  <line x1="550" y1="369" x2="550" y2="340" class="connector" marker-end="url(#arrow-up)" />
+
+  
+  <rect x="140" y="369" width="820" height="125" class="box" />
+  <text x="550" y="395" class="tier-hdr">TIER 2: OUTPUT &amp; EXECUTION</text>
+  <line x1="550" y1="407" x2="550" y2="482" class="divider" />
+  <text x="345" y="423" class="sub-hdr">2A: COGNITIVE &amp; HIGH-INCOME SKILLS</text>
+  <text x="345" y="446" class="body-txt">(First-principles reasoning, skill</text>
+  <text x="345" y="466" class="body-txt">acquisition, specialized mastery)</text>
+  <text x="755" y="423" class="sub-hdr">2B: OPERATIONAL SYSTEMS</text>
+  <text x="755" y="446" class="body-txt">(Deep work protection, delegation,</text>
+  <text x="755" y="466" class="body-txt">automation, decision algorithms)</text>
+
+  
+  <line x1="550" y1="526" x2="550" y2="497" class="connector" marker-end="url(#arrow-up)" />
+
+  
+  <rect x="140" y="526" width="820" height="125" class="box" />
+  <text x="550" y="552" class="tier-hdr">TIER 1: ENERGY &amp; STABILITY (The Root)</text>
+  <line x1="550" y1="564" x2="550" y2="639" class="divider" />
+  <text x="345" y="582" class="sub-hdr">1A: PHYSICAL HEALTH &amp; ENERGY</text>
+  <text x="345" y="607" class="body-txt">(Sleep, metabolism, strength, recovery)</text>
+  <text x="755" y="580" class="sub-hdr">1B: PSYCHOLOGY &amp; EMOTIONAL CONTROL</text>
+  <text x="755" y="603" class="body-txt">(Impulse inhibition, stress tolerance,</text>
+  <text x="755" y="623" class="body-txt">bias detection, locus of control)</text>
+</svg>
